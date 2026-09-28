@@ -1,0 +1,13 @@
+{
+  "name": "Interview - Moving Average",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "postCreateCommand": "chmod +x run-tests.sh",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["README.md"]
+    },
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  }
+}
